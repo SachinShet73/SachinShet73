@@ -106,19 +106,5 @@ Streamlit  •  Microsoft Guidance
 </p>
 
 📍 Based in Boston, MA  
-💬 Open to discussing data engineering, cloud architecture, and RAG systems!
-
+💬 Open to discussing data engineering, cloud architecture , RAG systems or a friendly Chat
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/YourGitHubUsername">Sachin Ramesh Shet</a></i>
-</p>

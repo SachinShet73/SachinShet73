@@ -21,10 +21,9 @@ I'm currently a graduate student at **Northeastern University**, pursuing a Mast
 ---
 
 - **Certifications**
-   - [AWS Certified: AWS Cloud Practitioner](https://www.credly.com/badges/e376d0b4-6629-4fbc-bbd8-a96eac4e3188) 
-   - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c2cb88c6-ab60-4644-8aff-380d8ba6c867)
-   - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/de0a1d37-a630-4d48-a51e-265aa6ce70b7)
-   - [Snowflake Certified: Snowpro Core](https://www.credly.com/badges/46867793-80c8-47cb-8e69-140d80db875b)
+   - [Google : Introduction to Git and Github]((https://www.coursera.org/account/accomplishments/verify/L5LXCURQJFND?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+   - [IBM: Python for Data Science]((https://courses.cognitiveclass.ai/certificates/2a2bef90f5664b709efb1cc22f26a335))
+   - [DataKitchen: DataOps Fundementals ]((https://learn.datakitchen.io/certificate/ODIwMDBfMjIzOTgxMg))
 
 - **Technologies and tools I'm familiar with**
    - Programming Languages: Python, SQL, PL/SQL, TSQL

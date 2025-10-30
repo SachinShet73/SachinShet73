@@ -12,9 +12,11 @@ I'm currently a graduate student at **Northeastern University**, pursuing a Mast
 
 ## 🚀 Featured Projects
 
-- **[AURELIA: Financial Knowledge Base Extraction System (RAG)](https://github.com/YourUsername/project-link)** - Production RAG microservice on GCP processing 3300+ pages of financial documentation with 95%+ accuracy using LangChain, Pinecone, and FastAPI
+- **[AURELIA: Financial Knowledge Base Extraction System (RAG)](https://github.com/DAMG7245-BigData-Team7/financial-rag-chatbot)** - Production RAG microservice on GCP processing 3300+ pages of financial documentation with 95%+ accuracy using LangChain, Pinecone, and FastAPI
 
-- **[Dow 30 Earnings Intelligence Pipeline](https://github.com/YourUsername/project-link)** - Automated ETL pipeline using Selenium & BeautifulSoup to extract earnings reports for all 30 Dow Jones companies, saving analysts 40+ hours per quarter
+- - **[NYPD_Arrests_Data_Pipeline](https://github.com/SachinShet73/NYPD-arrests-data-pipeline)** - End-to-end ETL pipeline on Azure Data Factory processing 1.2M+ arrest records from NYPD into Snowflake data warehouse with star schema design and Alteryx transformations and Tableau dashboards with 10+ visualizations for crime pattern analysis
+
+- **[Dow 30 Earnings Intelligence Pipeline](https://github.com/DAMG7245-BigData-Team7/Automated-Dow-30-Earnings-Intelligence-Pipeline)** - Automated ETL pipeline using Selenium & BeautifulSoup to extract earnings reports for all 30 Dow Jones companies, saving analysts 40+ hours per quarter
 
 - **[Automated SEC Filing Analysis Pipeline](https://github.com/YourUsername/project-link)** - DVC-based ETL pipeline for daily ingestion and structured data extraction from SEC filings, achieving 95% accuracy on 30+ financial concepts
 
@@ -23,7 +25,7 @@ I'm currently a graduate student at **Northeastern University**, pursuing a Mast
 - **Certifications**
    - [Google : Introduction to Git and Github]((https://www.coursera.org/account/accomplishments/verify/L5LXCURQJFND?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
    - [IBM: Python for Data Science]((https://courses.cognitiveclass.ai/certificates/2a2bef90f5664b709efb1cc22f26a335))
-   - [DataKitchen: DataOps Fundementals ]((https://learn.datakitchen.io/certificate/ODIwMDBfMjIzOTgxMg))
+   - [DataKitchen: DataOps Fundementals ]((https://github.com/DAMG7245-BigData-Team7/AI-Powered-PDF-Parsing-System))
 
 - **Technologies and tools I'm familiar with**
    - Programming Languages: Python, SQL, PL/SQL, TSQL

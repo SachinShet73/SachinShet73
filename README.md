@@ -14,7 +14,7 @@ I'm currently a graduate student at **Northeastern University**, pursuing a Mast
 
 - **[AURELIA: Financial Knowledge Base Extraction System (RAG)](https://github.com/DAMG7245-BigData-Team7/financial-rag-chatbot)** - Production RAG microservice on GCP processing 3300+ pages of financial documentation with 95%+ accuracy using LangChain, Pinecone, and FastAPI
 
-- - **[NYPD_Arrests_Data_Pipeline](https://github.com/SachinShet73/NYPD-arrests-data-pipeline)** - End-to-end ETL pipeline on Azure Data Factory processing 1.2M+ arrest records from NYPD into Snowflake data warehouse with star schema design and Alteryx transformations and Tableau dashboards with 10+ visualizations for crime pattern analysis
+- **[NYPD_Arrests_Data_Pipeline](https://github.com/SachinShet73/NYPD-arrests-data-pipeline)** - End-to-end ETL pipeline on Azure Data Factory processing 1.2M+ arrest records from NYPD into Snowflake data warehouse with star schema design and Alteryx transformations and Tableau dashboards with 10+ visualizations for crime pattern analysis
 
 - **[Dow 30 Earnings Intelligence Pipeline](https://github.com/DAMG7245-BigData-Team7/Automated-Dow-30-Earnings-Intelligence-Pipeline)** - Automated ETL pipeline using Selenium & BeautifulSoup to extract earnings reports for all 30 Dow Jones companies, saving analysts 40+ hours per quarter
 
